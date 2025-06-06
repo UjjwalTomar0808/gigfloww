@@ -6,7 +6,7 @@ const AuthLayout = ({ children }) => {
     <main className="h-screen w-full flex flex-col lg:flex-row">
       <div className="w-full lg:w-[40%] h-48 sm:h-60 lg:h-full relative overflow-hidden">
         <img
-          src={Assets.newAuth}
+          src={Assets.oldAuth}
           alt="Left Side"
           className="w-full h-full object-cover"
         />
